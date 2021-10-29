@@ -16,9 +16,9 @@ function currencyExchange(n, x, y, z, a, b, c) {
     console.log(counter)
 }
 
-// currencyExchange(100000, 2, 1, 1, 50000, 70000, 30000)
-// currencyExchange(60000, 3, 3, 3, 30000, 20000, 30000)
-// currencyExchange(32000, 2, 1, 1, 4200, 7500, 3600)
+currencyExchange(100000, 2, 1, 1, 50000, 70000, 30000)
+currencyExchange(60000, 3, 3, 3, 30000, 20000, 30000)
+currencyExchange(32000, 2, 1, 1, 4200, 7500, 3600)
 
 // password string
 
@@ -52,10 +52,10 @@ function passwordString(n, k, str) {
     }
 }
 
-// passwordString(3, 1, "abz")
-// passwordString(4, 5, "abcd")
-// passwordString(5, 2, "hzvwa")
-// passwordString(5, 1, "jas")
+passwordString(3, 1, "abz")
+passwordString(4, 5, "abcd")
+passwordString(5, 2, "hzvwa")
+passwordString(5, 1, "jas")
 
 //subasa and friends
 
